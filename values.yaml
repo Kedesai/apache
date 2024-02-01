@@ -98,7 +98,7 @@ git:
   pullSecrets: []
 ## @param replicaCount Number of replicas of the Apache deployment
 ##
-replicaCount: 6
+replicaCount: 2
 ## @param revisionHistoryLimit The number of old history to retain to allow rollback
 ##
 revisionHistoryLimit: 10
